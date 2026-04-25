@@ -1,0 +1,9 @@
+Best Model    : Random Forest
+Test Accuracy : 93.00%
+Features Used : ['left_ear', 'right_ear', 'avg_ear', 'mar', 'pitch', 'yaw', 'roll', 'eye_closed']
+Classes       : ['alert', 'microsleep', 'drowsy', 'extreme_fatigue']
+Train samples : 1598
+Test samples  : 400
+Random Forest accuracy: 93.00%
+SVM accuracy: 84.75%
+Gradient Boosting accuracy: 93.00%
